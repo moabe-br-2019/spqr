@@ -119,7 +119,7 @@ nav.mobileVisible a{
     gap: 10px;
     flex-shrink: 0;
     align-self: stretch;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%), url(hero_background.png), lightgray -114px -245.767px / 116.691% 151.775% ;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%), url(spqr/hero_background.png), lightgray -114px -245.767px / 116.691% 151.775% ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
